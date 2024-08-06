@@ -1,0 +1,24 @@
+body{background-color: rgb(189, 228, 238)}
+
+
+.header1{min-width: 100px}
+
+.logo1{border-bottom: 2px solid black; border-top: 2px dotted black; 
+    border-right: 2px dotted black; border-left: 2px dotted black; 
+    text-align: center; min-width: 100px}
+
+
+
+table{border: 1px solid black; width: 100%;}
+
+.h3produtos{width: 50%;}
+.addLink{width: 15%; align-content: center;}
+
+.thead{border: 3px solid black;}
+.theadAtualizar{width: 10%;}
+.theadApagar{width: 10%;}
+
+.tdata{border: 1px solid black;}
+
+.corpo{display: flex; justify-content: center;}
+.formulario{margin: 1vh 3vw; border: 1px solid black; width: 30vw; text-align: center;}

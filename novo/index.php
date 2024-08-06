@@ -1,0 +1,1 @@
+<?php header("Location: /novo/landing.php"); ?>
